@@ -1,0 +1,17 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions.To.MeshLibrary"
+type="MeshLibrary"
+uid="uid://cuow14o3ppv1l"
+path="res://.godot/imported/snowy-level-16.vox-52116d21d6f1cfc79099db67dcab88a8.meshlib"
+
+[deps]
+
+source_file="res://magicavoxel_files/snowy-level-16.vox"
+dest_files=["res://.godot/imported/snowy-level-16.vox-52116d21d6f1cfc79099db67dcab88a8.meshlib"]
+
+[params]
+
+Scale=0.063
+GreedyMeshGenerator=true
+SnapToGround=true
